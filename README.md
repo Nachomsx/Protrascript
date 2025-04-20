@@ -111,7 +111,7 @@
   </section>
 
   <section class="contact">
-    <h2>Envianos tu documento de audio a:/h2>
+    <h2>Envianos tu documento de audio a:</h2>
     <p><a href="mailto:transcriptopro@gmail.com">transcriptopro@gmail.com</a></p>
   </section>
 
