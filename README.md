@@ -111,7 +111,8 @@
   </section>
 
   <section class="contact">
-    <h2>Envianos tu documento de audio a:</h2>
+    <h2>Envianos tu documento de audio</h2>
+    <p>Nos comunicaremos contigo una vez recibamos el documento para hacer el pago y determinar detalles</p>
     <p><a href="mailto:transcriptopro@gmail.com">transcriptopro@gmail.com</a></p>
   </section>
 
