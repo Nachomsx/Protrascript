@@ -103,7 +103,7 @@
   <section class="pricing">
     <h2>Planes y Precios</h2>
     <ul>
-      <li><strong>Básico:</strong> $2.000 - 1 Transcripción de hasta 1 horas de audio.</li>
+      <li><strong>Básico:</strong> $2.000 - 1 Transcripción de hasta 1 hora de audio.</li>
       <li><strong>Estándar:</strong> $5.000 - 3 Transcripciones de hasta 1 hora cada una.</li>
       <li><strong>Premium:</strong> $12.000 - 9 Transcripciones de hasta 1 hora cada una.</li>
     </ul>
