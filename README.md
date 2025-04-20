@@ -104,25 +104,14 @@
   <section class="pricing">
     <h2>Planes y Precios</h2>
     <ul>
-      <li><strong>Básico:</strong> $10 - Transcripción de hasta 5 minutos de audio.</li>
-      <li><strong>Estándar:</strong> $20 - Hasta 15 minutos con corrección y formato.</li>
-      <li><strong>Premium:</strong> $40 - Hasta 30 minutos con edición completa y entrega rápida.</li>
+      <li><strong>Básico:</strong> $2.000 - 1 Transcripción de hasta 1 horas de audio.</li>
+      <li><strong>Estándar:</strong> $5.000 - 3 Transcripciones de hasta 1 hora cada una.</li>
+      <li><strong>Premium:</strong> $12.000 - 9 Transcripciones de hasta 1 hora cada una.</li>
     </ul>
   </section>
 
-  <section>
-    <h2>Sube tu archivo de audio</h2>
-    <form>
-      <label for="audioFile">Selecciona tu archivo de audio:</label><br>
-      <input type="file" id="audioFile" name="audioFile" accept="audio/*"><br>
-      <button type="submit">Enviar</button>
-    </form>
-    <p><em>Por ahora, este botón no sube el archivo automáticamente. Una vez enviado, nos pondremos en contacto para continuar el proceso.</em></p>
-  </section>
-
   <section class="contact">
-    <h2>Contáctanos</h2>
-    <p>¿Tienes dudas o quieres saber más? Escríbenos a:</p>
+    <h2>Envianos tu documento de audio a:/h2>
     <p><a href="mailto:transcriptopro@gmail.com">transcriptopro@gmail.com</a></p>
   </section>
 
