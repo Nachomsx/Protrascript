@@ -8,12 +8,12 @@
       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
       margin: 0;
       padding: 0;
-      background-color: #f0f4f8;
+      background-color: #f2f1f0;
       color: #333;
     }
 
     header {
-      background-color: #0a74da;
+      background-color: #1b3953;
       color: white;
       padding: 40px 20px;
       text-align: center;
